@@ -1,0 +1,5 @@
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+    "GEE Dev Docs on GitHub":
+      - "https://github.com/jdbcode/GEE-Dev-Docs"
