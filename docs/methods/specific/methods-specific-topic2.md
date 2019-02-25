@@ -13,6 +13,11 @@ This is specific methods sub-sub topics
 
 ### Example 1
 
+This is a test of labels - use these for search tags
+
+Landsat {:.label} Cloud masking{:.label} Image collection building{:.label}
+
+
 ```js
 some code
 ```
