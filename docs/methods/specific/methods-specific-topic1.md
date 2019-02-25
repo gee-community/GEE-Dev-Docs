@@ -6,7 +6,10 @@ grand_parent: Method
 nav_order: 1
 ---
 
+Metadata: method1; method2
+
 This is specific methods sub-sub topics
+
 
 ## Table of Contents
 
