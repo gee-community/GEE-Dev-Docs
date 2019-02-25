@@ -15,8 +15,16 @@ This is specific methods sub-sub topics
 
 This is a test of labels - use these for search tags
 
-Landsat { : .label } Cloud masking { : .label } Image collection building { : .label }
+Landsat 
+{: .label }
 
+Cloud masking 
+{: .label } 
+
+Image collection building 
+{: .label }
+
+Here is some code using Jekyll’s built-in syntax highlighting with Rouge
 
 ```js
 // Load some raster data: CONUS mean daily max temperature for January 2010
