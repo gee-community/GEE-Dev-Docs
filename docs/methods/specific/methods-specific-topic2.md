@@ -39,6 +39,7 @@ Map.addLayer(tmax, {min: -11, max: 25, palette: palette}, 'tmax');
 ```
 [Try live](https://code.earthengine.google.com/){: .btn }
 
+<a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
 
 ### Example 2
 
