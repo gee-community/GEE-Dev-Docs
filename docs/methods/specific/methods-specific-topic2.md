@@ -39,7 +39,7 @@ Map.addLayer(tmax, {min: -11, max: 25, palette: palette}, 'tmax');
 ```
 [Try live](https://code.earthengine.google.com/){: .btn }
 
-<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit</a>
+<a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}">Edit this</a>
 
 ### Example 2
 
