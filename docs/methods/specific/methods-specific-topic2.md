@@ -4,7 +4,7 @@ layout: default
 parent: Specific
 grand_parent: Method
 nav_order: 2
-tags: [cloud masking]
+tags: [cloud masking, PRISM]
 ---
 
 This is specific methods sub-sub topics
