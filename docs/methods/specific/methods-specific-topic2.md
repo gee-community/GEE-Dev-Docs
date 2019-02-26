@@ -9,7 +9,6 @@ tags:
 - prism
 - palettes
 ---
-Keywords: {%for tag in page.tags%}{{tag}}{: .label}{% endfor %}
 
 This is specific methods sub-sub topics
 
