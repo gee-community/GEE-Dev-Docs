@@ -6,7 +6,7 @@
     "title": "{{ page.title | replace: '&amp;', '&' }}",
     "content": "{{ page.content | markdownify | strip_html | escape_once | remove: 'Table of contents' | remove: '```'  | remove: '---' | replace: '\', ' ' | normalize_whitespace }}",
     "url": "{{ page.url | absolute_url }}",
-    "tags": "{{ page.tags | array_to_sentence_string }}",
+    "tags": "{% for tag in page.tags %}{{tag}},{% endfor %}",
     "relUrl": "{{ page.url }}"
   }{% unless forloop.last %},{% endunless %}
   {% endif %}{% endfor %}
