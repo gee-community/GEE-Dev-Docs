@@ -4,7 +4,7 @@ layout: default
 parent: Specific
 grand_parent: Method
 nav_order: 2
-tags: trial3, cloud masking, prism
+tags: trial3, cloud masking, prism, prism
 ---
 {{ page.tags }}
 
