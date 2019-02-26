@@ -10,9 +10,6 @@ tags:
 - prism
 ---
 {{ page.tags | array_to_sentence_string: "" }}
-{% for tag in page.tags}
-{{ tag }}{: .label }
-{% endfor %}
 This is specific methods sub-sub topics
 
 1. TOC
