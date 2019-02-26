@@ -9,7 +9,7 @@ tags:
 - prism
 - palettes
 ---
-Keywords: {{page.tags | join: "{: .label}, "}}
+Keywords: {%for tag in page.tags%}{{tag}}{: .label}{% endfor %}
 
 This is specific methods sub-sub topics
 
