@@ -6,9 +6,7 @@ grand_parent: Method
 nav_order: 2
 tags: [trial13, cloud-masking, prism]
 ---
-{% for tag in page.tags %}
-    {{{tag}} {: .label }}
-{% endfor %}
+Keywords: {{page.tags | join: ", "}}
 
 This is specific methods sub-sub topics
 
