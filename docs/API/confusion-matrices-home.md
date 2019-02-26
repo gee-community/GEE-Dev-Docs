@@ -2,7 +2,7 @@
 title: Confusion Matrices
 layout: default
 parent: API
-nav_order: 1
+nav_order: 2
 ---
 
 # Confusion Matrices
