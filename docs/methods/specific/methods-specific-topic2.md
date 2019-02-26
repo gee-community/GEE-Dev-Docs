@@ -5,9 +5,9 @@ parent: Specific
 grand_parent: Method
 nav_order: 2
 tags: 
-- prism 
+- palette 
 - cloud masking
-- palette
+- prism
 ---
 {{ page.tags | array_to_sentence_string: "" }}
 
