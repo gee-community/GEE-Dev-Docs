@@ -7,7 +7,7 @@ nav_order: 2
 tags: [trial13, cloud-masking, prism]
 ---
 {% for tag in page.tags %}
-    {{tag}} {: .label }
+    {{{tag}} {: .label }}
 {% endfor %}
 
 This is specific methods sub-sub topics
