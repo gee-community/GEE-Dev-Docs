@@ -4,9 +4,11 @@ layout: default
 parent: Specific
 grand_parent: Method
 nav_order: 2
-tags: trial12, cloud-masking, prism
+tags: [trial13, cloud-masking, prism]
 ---
-{{ page.tags }}
+{% for tag in page.tags %}
+    {{tag}} {: .label }
+{% endfor %}
 
 This is specific methods sub-sub topics
 
