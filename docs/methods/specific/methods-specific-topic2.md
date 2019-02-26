@@ -4,12 +4,10 @@ layout: default
 parent: Specific
 grand_parent: Method
 nav_order: 2
-tags: 
-- trial2 
-- cloud masking
-- prism
+tags: trial3, cloud masking, prism
 ---
-{{ page.tags | array_to_sentence_string: "" }}
+{{ page.tags }}
+
 This is specific methods sub-sub topics
 
 1. TOC
