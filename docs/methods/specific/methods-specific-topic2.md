@@ -5,12 +5,14 @@ parent: Specific
 grand_parent: Method
 nav_order: 2
 tags: 
-- trial 
+- trial2 
 - cloud masking
 - prism
 ---
 {{ page.tags | array_to_sentence_string: "" }}
-
+{% for tag in page.tags}
+{{tag}}{: .label}
+{% endfor %}
 This is specific methods sub-sub topics
 
 1. TOC
