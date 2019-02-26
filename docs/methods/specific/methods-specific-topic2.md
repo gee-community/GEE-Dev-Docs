@@ -9,6 +9,7 @@ tags:
 - cloud masking
 - palette
 ---
+{{ page.tags | join ' ' | markdownify | normalize_whitespace }}
 
 This is specific methods sub-sub topics
 
