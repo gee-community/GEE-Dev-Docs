@@ -4,9 +4,9 @@ layout: default
 parent: Specific
 grand_parent: Method
 nav_order: 2
-tags: [trial14, cloud-masking, prism]
+tags: [trial15, cloud-masking, prism]
 ---
-Keywords: {{page.tags | join: ", "}}
+Keywords: <p class=".label">{{page.tags | join: ", "}} </p>
 
 This is specific methods sub-sub topics
 
