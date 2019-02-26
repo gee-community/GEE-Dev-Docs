@@ -6,7 +6,7 @@ grand_parent: Method
 nav_order: 2
 tags: [trial9, cloud masking, prism]
 ---
-{{ page.tags  | replace: ' ', '-' }}
+{{ page.tags  | normalize_whitespace | join ',' | replace: ' ', '-' }}
 
 This is specific methods sub-sub topics
 
