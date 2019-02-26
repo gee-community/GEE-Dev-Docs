@@ -9,7 +9,7 @@ tags:
 - cloud masking
 - palette
 ---
-{{ page.tags }}
+{{ page.tags | array_to_sentence_string: "" }}
 
 This is specific methods sub-sub topics
 
