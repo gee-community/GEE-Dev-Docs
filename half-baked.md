@@ -1,4 +1,4 @@
-This is a place to collect tutorial/examples/etc while platform is being built.
+This is a place to collect tutorials/examples/etc while platform is being built.
 
 # How-To
 
@@ -8,7 +8,7 @@ This is a place to collect tutorial/examples/etc while platform is being built.
 
 **Minnaert-correction**
 
-Implementation where Minnaert constant k, is calculated per pixel as a function of slope.
+Implementation where Minnaert constant k is calculated per pixel as a function of slope.
 
 *Author: Justin Braaten*
 
