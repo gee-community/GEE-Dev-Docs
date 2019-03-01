@@ -4,7 +4,7 @@ This is a place to collect tutorial/examples/etc while platform is being built.
 
 ## Feature Collection
 
-- **Generate regular grid intersecting a geometry**
+**Generate regular grid intersecting a geometry**
 
 *Author: Gena*
 
