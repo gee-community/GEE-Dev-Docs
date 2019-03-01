@@ -10,3 +10,11 @@ This is a place to collect tutorial/examples/etc while platform is being built.
 
 https://code.earthengine.google.com/ff50a3e4745b1e732b1b7ac8a12623b6
 
+Also implemented in `users/gena/packages:grid` library
+
+```js
+var g = require('users/gena/packages:grid')
+var dx = 0.45
+var dy = 0.45
+var grid = g.generateGridForGeometry(region.bounds(), dx, dy)
+```
