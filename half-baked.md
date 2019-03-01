@@ -1,5 +1,17 @@
 This is a place to collect tutorials/examples/etc while platform is being built.
 
+
+- [How-To](#how-to)
+  * [Landsat](#landsat)
+    + [Terrain Correction](#terrain-correction)
+  * [Feature Collection](#feature-collection)
+  * [Charts](#charts)
+    + [Scatterplot](#scatterplot)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 # How-To
 
 ## Landsat
@@ -42,4 +54,19 @@ Example of its use in dividing an image for export
 https://code.earthengine.google.com/3a413327f67acc350bec59ba5ce1cb3c
 
 TODO: make reproducable - calls on marortpab assets
+
+
+## Charts
+
+### Scatterplot
+
+**3-band Scatterplot**
+
+*Author: Gennadii Donchyts*
+
+https://code.earthengine.google.com/252fda4ed0340c3e926096b01668576b
+
+
+
+
 
