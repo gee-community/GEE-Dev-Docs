@@ -53,20 +53,23 @@ Example of its use in dividing an image for export
 
 https://code.earthengine.google.com/3a413327f67acc350bec59ba5ce1cb3c
 
-TODO: make reproducable - calls on marortpab assets
+TODO: make reproducable - calls user asset(s)
 
 
 ## Charts
 
 ### Scatterplot
 
-**3-band Scatterplot**
+**3-band**
 
 *Author: Gennadii Donchyts*
 
 https://code.earthengine.google.com/252fda4ed0340c3e926096b01668576b
 
+**2-band with color for group**
 
+*Author: barbosaale*
 
+https://code.earthengine.google.com/41f4c83698112405fcaf591ed9145a25
 
-
+TODO: make reproducable - calls user asset(s)
