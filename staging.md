@@ -1,4 +1,4 @@
-This is a place to collect tutorials/examples/etc while platform is being built.
+This is a place to stage tutorials/examples/etc while platform is being built.
 
 
 - [How-To](#how-to)
