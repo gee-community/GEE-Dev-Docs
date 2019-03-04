@@ -73,3 +73,20 @@ https://code.earthengine.google.com/252fda4ed0340c3e926096b01668576b
 https://code.earthengine.google.com/41f4c83698112405fcaf591ed9145a25
 
 TODO: make reproducable - calls user asset(s)
+
+
+# Apps
+
+## Forest Change
+
+
+
+## Atmosphere
+
+
+
+
+
+
+
+
