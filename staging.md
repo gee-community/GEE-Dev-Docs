@@ -14,6 +14,20 @@ This is a place to stage tutorials/examples/etc while platform is being built.
 
 # How-To
 
+## Time series
+
+### Series difference
+
+Given a time series of observations, calculate the differences between observations at a regular step. Similar to: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html
+
+*Author: Gennadii Donchyts*
+
+https://code.earthengine.google.com/35f681f9b77978866d02b24f32aa912d
+
+TODO: could be simplifed for brevity. 
+
+
+
 ## Landsat
 
 ### Terrain Correction
