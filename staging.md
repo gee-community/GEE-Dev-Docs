@@ -2,13 +2,19 @@ This is a place to stage tutorials/examples/etc while platform is being built.
 
 
 - [How-To](#how-to)
+  * [Time series](#time-series)
+    + [Series difference](#series-difference)
   * [Landsat](#landsat)
     + [Terrain Correction](#terrain-correction)
   * [Feature Collection](#feature-collection)
   * [Charts](#charts)
     + [Scatterplot](#scatterplot)
+- [Apps](#apps)
+  * [Forest Change](#forest-change)
+  * [Atmosphere](#atmosphere)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
