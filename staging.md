@@ -9,11 +9,14 @@ This is a place to stage tutorials/examples/etc while platform is being built.
   * [Feature Collection](#feature-collection)
   * [Charts](#charts)
     + [Scatterplot](#scatterplot)
+  * [UI](#ui)
+    + [ui.Label](#uilabel)
 - [Apps](#apps)
   * [Forest Change](#forest-change)
   * [Atmosphere](#atmosphere)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
@@ -94,6 +97,14 @@ https://code.earthengine.google.com/41f4c83698112405fcaf591ed9145a25
 
 TODO: make reproducable - calls user asset(s)
 
+
+## UI
+
+### ui.Label
+
+**Adjust the position of a label within a panel using `textAlign` style property**
+
+https://code.earthengine.google.com/b4c03edade9ab3509d0e8a9b5a4e09b1
 
 # Apps
 
