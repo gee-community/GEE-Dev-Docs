@@ -21,7 +21,7 @@
    inkscape:version="0.92.1 r15371"><metadata
      id="metadata97"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs95" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,8 +31,8 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="2400"
-     inkscape:window-height="1271"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      id="namedview93"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
@@ -43,9 +43,9 @@
      fit-margin-bottom="0"
      units="in"
      inkscape:zoom="0.71270423"
-     inkscape:cx="168.28647"
-     inkscape:cy="379.06394"
-     inkscape:window-x="2391"
+     inkscape:cx="275.37259"
+     inkscape:cy="223.94003"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="Capa_1" /><path
@@ -90,7 +90,7 @@
        width="72.197998"
        height="10.727"
        id="rect18" /></g><path
-     style="fill:#0f9d58;fill-opacity:1"
+     style="fill:#db4437;fill-opacity:1"
      d="M 293.463,484.2191 H 174.829 c -10.345,0 -18.732,-8.386 -18.732,-18.732 V 34.658098 c 0.001,-10.346 8.387,-18.732 18.732,-18.732 h 118.634 c 10.345,0 18.732,8.386 18.732,18.732 V 465.4871 c 0,10.345 -8.386,18.732 -18.732,18.732 z"
      id="path22"
      inkscape:connector-curvature="0" /><circle
@@ -203,7 +203,7 @@
      id="g90"
      transform="translate(430,15.926098)" /><path
      inkscape:connector-curvature="0"
-     style="fill:#db4437;fill-opacity:1"
+     style="fill:#0f9d58;fill-opacity:1"
      d="M 711.45713,454.79392 596.38655,483.652 c -10.03426,2.51646 -20.20926,-3.57749 -22.72596,-13.61273 L 468.86012,52.151142 c -2.51669,-10.035235 3.57846,-20.209507 13.61273,-22.72596 L 597.54342,0.56710002 C 607.57769,-1.949353 617.75269,4.144592 620.26938,14.179828 L 725.06985,432.06796 c 2.51646,10.03427 -3.57846,20.20951 -13.61272,22.72596 z"
      id="path42-1" /><rect
      x="468.89154"
@@ -320,20 +320,20 @@
 <g
      id="g4852"
      transform="matrix(0.17282499,-0.0685292,0.0685292,0.17282499,567.74413,345.25686)"
-     style="fill:#258e6d;fill-opacity:1"><path
+     style="fill:#0f9d58;fill-opacity:1"><path
        inkscape:connector-curvature="0"
-       style="fill:#258e6d;fill-opacity:1"
+       style="fill:#0f9d58;fill-opacity:1"
        d="m 441.374,79.519 -26.485,17.656 -44.141,-8.828 -26.485,-8.828 -35.313,8.828 -26.485,-8.828 17.656,-35.313 h 35.313 l 34.607,-17.303 c 26.689,13.198 50.834,31.013 71.333,52.616 z"
        id="path4844" /><path
        inkscape:connector-curvature="0"
-       style="fill:#258e6d;fill-opacity:1"
+       style="fill:#0f9d58;fill-opacity:1"
        d="m 238.325,44.206 -8.828,26.485 -26.485,8.828 -26.485,44.141 -44.141,26.485 -61.797,8.828 v 26.485 l 17.656,17.656 v 35.313 L 61.762,220.77 35.277,203.114 19.916,156.943 C 46.356,93.935 96.898,44.126 160.284,18.604 l 25.072,16.774 z"
        id="path4846" /><polygon
-       style="fill:#258e6d;fill-opacity:1"
+       style="fill:#0f9d58;fill-opacity:1"
        points="220.669,291.395 255.982,291.395 247.154,335.536 211.841,370.849 211.841,397.334 176.528,423.818 176.528,467.959 150.044,459.131 132.387,414.99 132.387,326.708 88.246,317.88 70.59,282.567 70.59,256.082 88.246,238.426 114.731,211.941 132.387,247.254 194.184,247.254 "
        id="polygon4848" /><path
        inkscape:connector-curvature="0"
-       style="fill:#258e6d;fill-opacity:1"
+       style="fill:#0f9d58;fill-opacity:1"
        d="m 479.335,130.987 c 48.193,85.978 42.702,191.996 -14.125,272.526 l -23.836,-23.836 v -35.313 l -17.656,-35.313 -17.656,-35.313 v -35.313 l -26.485,-17.656 -35.313,8.828 -61.797,-26.485 -8.828,-61.797 26.485,-26.485 h 52.969 l 17.656,26.485 52.969,8.828 52.969,-17.656 z"
        id="path4850" /></g><path
      inkscape:connector-curvature="0"
