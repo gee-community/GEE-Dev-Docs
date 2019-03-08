@@ -1,3 +1,5 @@
+<img src='./assets/img/gee-dev-docs-logo.svg'>
+
 # Welcome
 
 This is GEE Dev Docs, a collaborative platform for accessing and submitting Google Earth Engine tutorials.
