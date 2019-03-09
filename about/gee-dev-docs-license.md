@@ -1,3 +1,9 @@
+---
+tile: GEE Dev Docs License
+layout: default
+nav_exclude: true
+---
+
 _Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License][cca], and
 code samples are licensed under the [Apache 2.0 License][apache]._

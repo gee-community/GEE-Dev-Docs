@@ -1,13 +1,23 @@
+---
+title: Welcome
+---
+
 <img src='https://gee-community.github.io/GEE-Dev-Docs/assets/img/gee-dev-docs-logo.svg'>
 
+# Welcome
 
-## Welcome to the GEE Dev Docs repo. 
-
-GEE Dev Docs is a collaborative platform for accessing and submitting tutorials and other community-contributed content 
+This is GEE Dev Docs, a collaborative platform for accessing and submitting tutorials and other community-contributed content 
 for [Google Earth Engine](https://earthengine.google.com/).
 
-Please see the [site](https://gee-community.github.io/GEE-Dev-Docs/) for more information.
+**Currently this is a mock up to test the "Just the Docs" platform.**
 
+## Contribute
+
+It's really easy - here's how...
+
+---
+
+## About the project
 
 ### Code of Conduct
 
@@ -21,5 +31,11 @@ Except as otherwise noted, the content in this repository is [licensed](https://
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-The GEE Dev Docs site renders content using [Just the Docs](https://github.com/pmarsceill/just-the-docs), 
+This site renders content using [Just the Docs](https://github.com/pmarsceill/just-the-docs), 
 a documentation theme for Jekyll, distributed under an [MIT License](https://gee-community.github.io/GEE-Dev-Docs/about/just-the-docs-license.md). 
+
+
+
+
+
+
