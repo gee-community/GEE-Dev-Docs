@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-<img src='https://gee-community.github.io/GEE-Dev-Docs/assets/img/gee-dev-docs-logo.svg'>
+<img src='https://gee-community.github.io/GEE-Dev-Docs/assets/images/gee-dev-docs-logo.svg'>
 
 # Welcome
 
