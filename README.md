@@ -3,8 +3,7 @@
 
 ## Welcome to the GEE Dev Docs repo. 
 
-GEE Dev Docs is a collaborative platform for accessing and submitting tutorials and other community-contributed content 
-for [Google Earth Engine](https://earthengine.google.com/).
+GEE Dev Docs is a collaborative platform for accessing and submitting tutorials for [Google Earth Engine](https://earthengine.google.com/).
 
 Please see the [site](https://gee-community.github.io/GEE-Dev-Docs/) for more information.
 
