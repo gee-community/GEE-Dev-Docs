@@ -21,7 +21,7 @@ It's really easy - here's how...
 ### Code of Conduct
 
 GEE Dev Docs is committed to fostering a welcoming community.
-Please read our code of [Code of Conduct](https://gee-community.github.io/GEE-Dev-Docs/about/code-of-conduct.md) 
+Please read our [Code of Conduct](https://gee-community.github.io/GEE-Dev-Docs/about/code-of-conduct.md) 
 before participating.
 
 ### License
