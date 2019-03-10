@@ -33,7 +33,7 @@ TODO: could be simplifed for brevity.
 
 ### Correction
 
-**Minnaert terrain correction**
+#### Minnaert terrain correction
 
 Implementation where Minnaert constant k is calculated per pixel as a function of slope.
 
