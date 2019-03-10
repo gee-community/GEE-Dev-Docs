@@ -1,6 +1,7 @@
 ---
 title: Staging
 layout: default
+nav_order: 5
 ---
 
 This is a place to stage tutorials/examples/etc while platform is being built.
