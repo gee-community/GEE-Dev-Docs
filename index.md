@@ -21,12 +21,12 @@ It's really easy - here's how...
 ### Code of Conduct
 
 GEE Dev Docs is committed to fostering a welcoming community.
-Please read our [Code of Conduct](https://gee-community.github.io/GEE-Dev-Docs/about/code-of-conduct.md) 
+Please read our [Code of Conduct](https://gee-community.github.io/GEE-Dev-Docs/docs/terms/code-of-conduct.md) 
 before participating.
 
 ### License
 
-Except as otherwise noted, the content in this repository is [licensed](https://gee-community.github.io/GEE-Dev-Docs/docs/terms/gee-dev-doc-license.md) under the
+Except as otherwise noted, the content in this repository is [licensed](https://gee-community.github.io/GEE-Dev-Docs/docs/terms/gee-dev-docs-license.md) under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
