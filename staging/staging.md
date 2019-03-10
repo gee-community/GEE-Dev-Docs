@@ -19,13 +19,13 @@ This is a place to stage tutorials/examples/etc while platform is being built.
 
 ### Series difference
 
-Given a time series of observations, calculate the differences between observations at a regular step. Similar to: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html
+Given a time series of observations, calculate the differences between observations at a regular step. Similar to Python Pandas [Series.diff](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html)
 
-*Author: Gennadii Donchyts*
+TODO: could be simplifed for brevity.
 
-https://code.earthengine.google.com/35f681f9b77978866d02b24f32aa912d
+[GEE JS](https://code.earthengine.google.com/cfb832f86632f1d3f19268bbee3854f3){: .btn }
 
-TODO: could be simplifed for brevity. 
+ 
 
 
 
