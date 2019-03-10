@@ -7,8 +7,6 @@ nav_order: 5
 This is a place to stage tutorials/examples/etc while platform is being built.
 
 
-## Table of Contents
-
 1. TOC
 {:toc}
 
