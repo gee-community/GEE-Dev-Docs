@@ -37,9 +37,9 @@ TODO: could be simplifed for brevity.
 
 Implementation where Minnaert constant k is calculated per pixel as a function of slope.
 
-https://code.earthengine.google.com/1fcc034eb3014d7606eec467241dc1da
-
 TODO: Sun azimuth and zenith angles are taken from image metadata, so represent nadir position and are held constant. Could adjust for every pixel.
+
+[GEE JS](https://code.earthengine.google.com/1fcc034eb3014d7606eec467241dc1da){: .btn }
 
 **Landsat7 SLC-off gap filling**
 
