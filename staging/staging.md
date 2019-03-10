@@ -1,3 +1,8 @@
+---
+title: Staging
+layout: default
+---
+
 This is a place to stage tutorials/examples/etc while platform is being built.
 
 
@@ -39,19 +44,24 @@ TODO: could be simplifed for brevity.
 
 ## Landsat
 
-### Terrain Correction
+### Correction
 
-**Minnaert-correction**
+**Minnaert terrain correction**
 
 Implementation where Minnaert constant k is calculated per pixel as a function of slope.
 
-*Author: Justin Braaten*
-
-> Ge, H., Lu, D., He, S., Xu, A., Zhou, G., & Du, H. (2008). Pixel-based Minnaert correction method for reducing topographic effects on a Landsat 7 ETM+ image. Photogrammetric Engineering & Remote Sensing, 74(11), 1343-1350. | https://orst.library.ingentaconnect.com/content/asprs/pers/2008/00000074/00000011/art00003?crawler=true&mimetype=application/pdf
-
 https://code.earthengine.google.com/1fcc034eb3014d7606eec467241dc1da
 
-TODO: Sun azimuth and zenith angles are taken from image metadata, so represent nadir position and are held constant. Could adjust for every pixel. 
+TODO: Sun azimuth and zenith angles are taken from image metadata, so represent nadir position and are held constant. Could adjust for every pixel.
+
+**Landsat7 SLC-off gap filling**
+
+[GEE JS](https://code.earthengine.google.com/078556a80eee46a8330b2079cd4c9dca){: .btn .btn-outline }
+
+
+
+TODO: 
+
 
 ## Feature Collection
 
