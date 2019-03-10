@@ -1,5 +1,5 @@
 ---
-tile: Just the Docs License
+title: Just the Docs License
 layout: default
 nav_exclude: true
 ---

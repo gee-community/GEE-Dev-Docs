@@ -1,5 +1,5 @@
 ---
-tile: GEE Dev Docs License
+title: GEE Dev Docs License
 layout: default
 nav_exclude: true
 ---
