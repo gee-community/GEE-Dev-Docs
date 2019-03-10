@@ -1,24 +1,16 @@
+---
+title: Staging
+layout: default
+nav_order: 5
+---
+
 This is a place to stage tutorials/examples/etc while platform is being built.
 
 
-- [How-To](#how-to)
-  * [Time series](#time-series)
-    + [Series difference](#series-difference)
-  * [Landsat](#landsat)
-    + [Terrain Correction](#terrain-correction)
-  * [Feature Collection](#feature-collection)
-  * [Charts](#charts)
-    + [Scatterplot](#scatterplot)
-  * [UI](#ui)
-    + [ui.Label](#uilabel)
-- [Apps](#apps)
-  * [Forest Change](#forest-change)
-  * [Atmosphere](#atmosphere)
+## Table of Contents
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
+1. TOC
+{:toc}
 
 
 # How-To
@@ -27,31 +19,36 @@ This is a place to stage tutorials/examples/etc while platform is being built.
 
 ### Series difference
 
-Given a time series of observations, calculate the differences between observations at a regular step. Similar to: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html
+Given a time series of observations, calculate the differences between observations at a regular step. Similar to Python Pandas [Series.diff](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html)
 
-*Author: Gennadii Donchyts*
+TODO: could be simplifed for brevity.
 
-https://code.earthengine.google.com/35f681f9b77978866d02b24f32aa912d
+[GEE JS](https://code.earthengine.google.com/cfb832f86632f1d3f19268bbee3854f3){: .btn }
 
-TODO: could be simplifed for brevity. 
+ 
 
 
 
 ## Landsat
 
-### Terrain Correction
+### Correction
 
-**Minnaert-correction**
+#### Minnaert terrain correction
 
 Implementation where Minnaert constant k is calculated per pixel as a function of slope.
 
-*Author: Justin Braaten*
+TODO: Sun azimuth and zenith angles are taken from image metadata, so represent nadir position and are held constant. Could adjust for every pixel.
 
-> Ge, H., Lu, D., He, S., Xu, A., Zhou, G., & Du, H. (2008). Pixel-based Minnaert correction method for reducing topographic effects on a Landsat 7 ETM+ image. Photogrammetric Engineering & Remote Sensing, 74(11), 1343-1350. | https://orst.library.ingentaconnect.com/content/asprs/pers/2008/00000074/00000011/art00003?crawler=true&mimetype=application/pdf
+[GEE JS](https://code.earthengine.google.com/1fcc034eb3014d7606eec467241dc1da){: .btn }
 
-https://code.earthengine.google.com/1fcc034eb3014d7606eec467241dc1da
+**Landsat7 SLC-off gap filling**
 
-TODO: Sun azimuth and zenith angles are taken from image metadata, so represent nadir position and are held constant. Could adjust for every pixel. 
+[GEE JS](https://code.earthengine.google.com/078556a80eee46a8330b2079cd4c9dca){: .btn .btn-outline }
+
+
+
+TODO: 
+
 
 ## Feature Collection
 
