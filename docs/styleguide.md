@@ -2,6 +2,7 @@
 title: Google Earth Engive Dev Docs Style Guide
 description: Learn about proper style for writing content for the Gee-Dev-Docs repository.
 tags: Tutorial, Write, Styleguide
+nav_exclude: true
 ---
 
 This document provides guidance for contributors to the GEE-Dev-Docs repository.
