@@ -73,6 +73,8 @@ tutorial doc types. Use these sections to start your outlines.
 
 ### Writing a API doc
 
+To help you create new API documentation, you can use the template file HERE
+
 A API doc has these major sections:
 
 * Title
@@ -83,6 +85,8 @@ A API doc has these major sections:
     * Contains headings and subheadings as needed to make the content easy to skim.
 
 ### Writing a Tutorial
+
+To help you create new tutorials, you can use the template file HERE
 
 A Tutorial doc has these major sections. Items in bold below are literal heading names:
 
