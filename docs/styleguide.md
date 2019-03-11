@@ -16,7 +16,6 @@ This document provides guidance for contributors to the GEE-Dev-Docs repository.
 * [Markdown usage](#markdown-usage)
 * [Voice and tone](#voice-and-tone)
 * [Including source code](#including-source-code)
-* [Writing resources](#writing-resources)
 
 ## Caveats
 
@@ -68,18 +67,18 @@ As you develop your outline, ask yourself:
 * Is there anything missing?
 * Have I made the right assumptions about my audience?
 
-The following sections show the main, top-level organization for the concept and
-tutorial doc types. Use these sections to start your outlines.
+The following sections show the main, top-level organization for different doc types. Use these sections to start your outlines. There are also template files linked below which you can rename and use to start writing!
 
 ### Writing a API doc
 
-To help you create new API documentation, you can use the template file HERE
+To help you create new API documentation, you can use the template file HERE NEED TO ADD
 
 A API doc has these major sections:
 
-* Title
+* Title 
+    * Use the full GEE command for which you are developing an API document e.g. ee.Classifier.gmoMaxEnt
 * Overview
-    * Don't use the heading "Overview" or any other heading. Just start at the first sentence.
+    * Explain here what this API command does in at most three sentences.
 * Body
     * Provides the details.
     * Contains headings and subheadings as needed to make the content easy to skim.
@@ -95,6 +94,7 @@ A Tutorial doc has these major sections. Items in bold below are literal heading
     * First sentence tells what the page is about
     * Tell the user what they're going to learn and provide any concise background information that's helpful.
     * Don't use the heading "Overview." Just get right to it.
+    * Provide a visualization of the final result, map or graphs produced by GEE - this would motivate people to read your tutorial!
 
 * **Objectives**
     * A short, bulleted list of what the tutorial teaches the reader.
@@ -411,12 +411,3 @@ user to view real source code files.
 
 For an example, see [Using Node.js to Calculate the Size of a BigQuery Dataset](https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/using-nodejs-to-calculate-the-size-of-a-bigquery-dataset).
 
-## Writing resources
-
-Learn more about strong writing.
-
-* [What is plain language?](http://plainlanguagenetwork.org/plain-language/what-is-plain-language/#.V1HvQXUrLOF)
-* [Purdue Online Writing Lab](https://owl.english.purdue.edu/sitemap/) (OWL)
-* [Grammar Girl](http://www.quickanddirtytips.com/grammar-girl)
-* [The Elements of Style](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1463012361&sr=8-1&keywords=the+elements+of+style+book) (book by Strunk and White)
-* [The Deluxe, Transitive Vampire](http://www.amazon.com/Deluxe-Transitive-Vampire-Ultimate-Handbook/dp/0679418601) (book by Karen Elizabeth Gordon)
