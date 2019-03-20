@@ -5,7 +5,14 @@ tags: Tutorial, Write, Styleguide
 nav_exclude: true
 ---
 
-This document provides guidance for contributors to the GEE-Dev-Docs repository.
+This document provides guidance for contributors to the GEE-Dev-Docs repository. 
+
+**...Possible language for how attribution could be handled...**
+
+Please note that content you contribute will be licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License, and code samples under the Apache 2.0 License. The terms of these licences state that material distributed publicly must attribute the creator(s). This is a challenge for a collaborative project with many authors often working on the same file. GitHub tracks edits and contributions from authors precisely, but for the average person who wants to share a tutorial with their class (for instance), it could be a significant burden to attribute individual creators. We have endeavored to provide thorough instructions for content distributors to attribute work, but we cannot guarantee that attribution will be made to specific contributors. At the very least we are asking content distributors to link to the full list of repository contributors and when possible attribute by name or GitHub alias specific authors of a file. By contributing content to this platform you are agreeing to group attribution of creative content under the umbrella of the GEE Dev Docs Developer Community.
+
+
+
 
 * [Caveats](#caveats)
 * [Types of documentation](#types-of-documentation)
