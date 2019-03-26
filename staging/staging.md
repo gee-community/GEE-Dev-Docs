@@ -19,11 +19,11 @@ This is a place to stage tutorials/examples/etc while platform is being built.
 
 Given a time series of observations, calculate the differences between observations at a regular step. Similar to Python Pandas [Series.diff](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.diff.html)
 
-TODO: could be simplifed for brevity.
+TODO: could be simplifed for brevity - are the two below different cases - option for forward or backward difference
 
-[GEE JS](https://code.earthengine.google.com/cfb832f86632f1d3f19268bbee3854f3){: .btn }
+[GEE JS Example 1](https://code.earthengine.google.com/cfb832f86632f1d3f19268bbee3854f3){: .btn }
 
-[GEE JS](https://code.earthengine.google.com/da0a7e6431cfee29d12d64c2438b1322){: .btn }
+[GEE JS Example 2](https://code.earthengine.google.com/9da59e20575a5f3cf5a1ba2fc2200013){: .btn }
 
  
 
