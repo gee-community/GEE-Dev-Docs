@@ -23,9 +23,9 @@ TODO: could be simplifed for brevity.
 
 [GEE JS](https://code.earthengine.google.com/cfb832f86632f1d3f19268bbee3854f3){: .btn }
 
+[GEE JS](https://code.earthengine.google.com/da0a7e6431cfee29d12d64c2438b1322){: .btn }
+
  
-
-
 
 ## Landsat
 
