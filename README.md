@@ -1,5 +1,6 @@
 <img src='https://gee-community.github.io/GEE-Dev-Docs/assets/images/gee-dev-docs-logo.svg'>
 
+# _This project is inactive, please see: https://github.com/google/earthengine-community_
 
 ## Welcome to the GEE Dev Docs repo. 
 
